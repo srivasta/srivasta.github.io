@@ -488,7 +488,7 @@ div.InfoLinks a:link a:active  {color:#000012; text-decoration: none;}
 /*******************************************************************/
 /*******************************************************************/
 /* These are relevant only to the blog */
-.gr_custom_container_1402101785 {
+.gr_custom_container_1402101821 {
   /* customize your Goodreads widget container here*/
   border: 1px solid gray;
   border-radius:10px;
@@ -497,26 +497,26 @@ div.InfoLinks a:link a:active  {color:#000012; text-decoration: none;}
   color: #FFFFF0;
   width: 200px
 }
-.gr_custom_header_1402101785 {
+.gr_custom_header_1402101821 {
   /* customize your Goodreads header here*/
   border-bottom: 1px solid gray;
   width: 100%;
   margin-bottom: 5px;
   text-align: center;
 }
-.gr_custom_header_1402101785  a:link    { color:#FFFFF0; text-decoration: underline }
-.gr_custom_header_1402101785  a:visited { color:#FFF0F0;  text-decoration: underline}
-.gr_custom_header_1402101785  a:active  { color:#ffff74;}
+.gr_custom_header_1402101821  a:link    { color:#FFFFF0; text-decoration: underline }
+.gr_custom_header_1402101821  a:visited { color:#FFF0F0;  text-decoration: underline}
+.gr_custom_header_1402101821  a:active  { color:#ffff74;}
 
-.gr_custom_title_1402101785  a:link    { color:#FFFFF0; text-decoration: underline }
-.gr_custom_title_1402101785  a:visited { color:#FFF0F0;  text-decoration: underline}
-.gr_custom_title_1402101785  a:active  { color:#ffff74;}
+.gr_custom_title_1402101821  a:link    { color:#FFFFF0; text-decoration: underline }
+.gr_custom_title_1402101821  a:visited { color:#FFF0F0;  text-decoration: underline}
+.gr_custom_title_1402101821  a:active  { color:#ffff74;}
 
-.gr_custom_author_1402101785  a:link    { color:#F5F5E6; text-decoration: underline }
-.gr_custom_author_1402101785  a:visited { color:#F5F5E6;  text-decoration: underline}
-.gr_custom_author_1402101785  a:active  { color:#ffff74;}
+.gr_custom_author_1402101821  a:link    { color:#F5F5E6; text-decoration: underline }
+.gr_custom_author_1402101821  a:visited { color:#F5F5E6;  text-decoration: underline}
+.gr_custom_author_1402101821  a:active  { color:#ffff74;}
 
-.gr_custom_each_container_1402101785 {
+.gr_custom_each_container_1402101821 {
   /* customize each individual book container here */
   width: 100%;
   clear: both;
@@ -525,7 +525,7 @@ div.InfoLinks a:link a:active  {color:#000012; text-decoration: none;}
   padding-bottom: 4px;
   border-bottom: 1px solid #aaa;
 }
-.gr_custom_book_container_1402101785 {
+.gr_custom_book_container_1402101821 {
   /* customize your book covers here */
   overflow: hidden;
   height: 60px;
@@ -533,16 +533,16 @@ div.InfoLinks a:link a:active  {color:#000012; text-decoration: none;}
     margin-right: 4px;
     width: 39px;
 }
-.gr_custom_author_1402101785 {
+.gr_custom_author_1402101821 {
   /* customize your author names here */
   font-size: 10px;
 }
-.gr_custom_tags_1402101785 {
+.gr_custom_tags_1402101821 {
   /* customize your tags here */
   font-size: 10px;
   color: gray;
 }
-.gr_custom_rating_1402101785 {
+.gr_custom_rating_1402101821 {
   /* customize your rating stars here */
   float: right;
 }
